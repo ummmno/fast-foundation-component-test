@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@microsoft/fast-foundation": "^3.0.0-alpha.27"
+  }
+}
